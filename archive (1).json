@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Data OS 12.0.1",
+    "repo": "https://github.com/xenotech-x/the-last-stand",
+    "path": "data-os/12.0.1/index.html",
+    "cover": "data-os/12.0.1/cover.png"
+  },
+  {
+    "name": "GX-GamesCrack X",
+    "repo": "https://github.com/xenotech-x/the-last-stand",
+    "path": "gx-gamescrack-x/index.html",
+    "cover": "gx-gamescrack-x/cover.png"
+  },
+  {
+    "name": "GX-GamesCrack v2",
+    "repo": "https://github.com/xenotech-x/the-last-stand",
+    "path": "gx-gamescrack-v2/index.html",
+    "cover": "gx-gamescrack-v2/cover.png"
+  },
+  {
+    "name": "GX-GamesCrack",
+    "repo": "https://github.com/xenotech-x/the-last-stand",
+    "path": "gx-gamescrack/index.html",
+    "cover": "gx-gamescrack/cover.png"
+  },
+  {
+    "name": "GX-Launcher",
+    "repo": "https://github.com/xenotech-x/the-last-stand",
+    "path": "gx-launcher/index.html",
+    "cover": "gx-launcher/cover.png"
+  },
+  {
+    "name": "Signal WebRTC",
+    "repo": "https://github.com/xenotech-x/the-last-stand",
+    "path": "signal-webrtc/index.html",
+    "cover": "signal-webrtc/cover.png"
+  }
+]
