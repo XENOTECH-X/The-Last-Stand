@@ -12,6 +12,12 @@
     "cover": "cover.png"
   },
   {
+    "name": "UGSX (old)",
+    "repo": "https://github.com/xenotech-x/UGSX",
+    "path": "index.html",
+    "cover": "cover.png"
+  },
+  {
     "name": "GX-GamesCrack V2 (old)",
     "repo": "https://github.com/xenotech-x/gx-v2",
     "path": "index.html",
